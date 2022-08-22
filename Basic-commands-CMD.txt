@@ -1,0 +1,4 @@
+remove Directory : rmdir myapp /s or rmdir "New folder" /s
+Example : C:\Users\Manageit\Desktop\New folder>rmdir myapp /s
+
+
