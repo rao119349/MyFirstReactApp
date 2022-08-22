@@ -1,0 +1,13 @@
+Go to GitHub :
+
+1) Go to Dropdown on right & click settings.
+2) on the very bottom on left click developer settings.
+3) click Personal access tokens.
+4) Generate New Token & copy it. (New token generated).
+
+5) Go to GitBash & 'git pull'
+6) now when asked for 'username' then write your 'username' from Git &
+   when asked for password then paste the Token that you generated.
+7) If still their is a issue then go to below process on system by clicking :  
+Windows > Settings > credential manager > windows credential > delete saved git details.
+8) Run again then it will work.
