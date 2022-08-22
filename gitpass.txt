@@ -10,4 +10,4 @@ Go to GitHub :
    when asked for password then paste the Token that you generated.
 7) If still their is a issue then go to below process on system by clicking :  
 Windows > Settings > credential manager > windows credential > delete saved git details.
-8) Run again then it will work.
+8) Run again then it will work..
