@@ -4,7 +4,7 @@ import Sdata from "./Sdata";
 function Home() {
   return (
     <>
-    <h1>Welcome to the HomePage  hggfhghffdghggdfgd!!</h1>
+    <h1>Welcome to the HomePage !!</h1>
     <p>Here is your Favourite Netflix Series, Click Watch Now to Enjoy.</p>
     <div className="row justify-content-center listings">
     <Card imgsrc={Sdata[0].imagesrc} title={Sdata[0].stitle} cardsummary={Sdata[0].summary} cardlink={Sdata[0].link} />
