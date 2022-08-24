@@ -1,0 +1,31 @@
+Check if node installed or not.
+a) check version of npm(node package manager) using command npm -v
+b) install yarn for faster build using npm install --global yarn & check version of yarn using yarn --version
+
+In Folder where you want to create React App:
+
+1) npx create-react-app myfirstprojetreact
+2) cd myfirstprojetreact (take you to folder myfirstprojetreact) & run command npm i to install all node dependencies. 
+3) Run Using yarn start or npm start (yarn is super fast then npm so yarn is preffered). Localhost will open by itself.
+3) Open code in code editor use command code .
+4) favicon.ico should always be in public folder else icon will not load.
+5) to change localhost port go to package.json & replace "react-scripts start" with "set PORT=3000 && react-scripts
+start"
+
+
+Important :
+
+1) run command yarn add react-router-dom to install dependencies to create routing for multiple pages in react
+application.
+2) Check if installed properly in package.json under dependencies "react-router-dom": "^6.3.0" will be added with
+version.
+
+Very Important :
+
+1) type rfc or rfce or rafc or rafce on jsx page & press enter to get function code automatically.
+
+rfc : React Function Component
+rfce : React Function Component with Export
+rafc : React Arrow Function Component
+rafce : React Arrow Function Component with Export 
+rafcp : React Arrow Function Component with Props & Export 

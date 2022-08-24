@@ -3,4 +3,4 @@ Note * Storybook can't be Installed in empty project.
 2) It will auto detect project type but if u manually set project type
 then write 'REACT' for react project & so on.
 3) It will add Yarn as well if not installed.
-4) yarn storybook or npm run storybook.
+4) Now run Command yarn storybook or npm run storybook.
