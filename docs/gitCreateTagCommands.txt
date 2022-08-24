@@ -1,0 +1,37 @@
+Creating Tags
+
+Git uses two main types of tags: lightweight and annotated.
+
+Annotated Tags:
+
+To create an annotated tag in Git you can just run the following simple commands on your terminal.
+
+$ git tag -a v2.1.0 -m "xyz feature is released in this tag."
+$ git tag
+v1.0.0
+v2.0.0
+v2.1.0
+The -m denotes message for that particular tag. We can write summary of features which is going to tag here.
+
+Lightweight Tags:
+
+The other way to tag commits is lightweight tag. We can do it in the following way:
+
+$ git tag v2.1.0
+$ git tag
+v1.0.0
+v2.0.0
+v2.1.0
+Push Tag
+
+To push particular tag you can use below command:
+
+git push origin v1.0.3
+Or if you want to push all tags then use the below command:
+
+git push --tags
+List all tags:
+
+To list all tags, use the following command.
+
+git tag
