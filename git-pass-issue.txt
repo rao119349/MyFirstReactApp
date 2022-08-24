@@ -12,4 +12,4 @@ Go to GitHub :
 Windows > Settings > credential manager > windows credential > delete saved git details.
 8) Run again then it will work......
 
-Hurray You are done !!
+Hurray You are done !!!
