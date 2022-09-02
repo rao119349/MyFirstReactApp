@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button type="button" onclick="myfun()">click me</button>
+    <p id="demo"></p>
+<script>
+
+function myfun(){
+
+    var dayName = new Date('08/31/2022').toLocaleString('en-US', {weekday:'long'});
+
+    // let weekday = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'][new Date().getDay()]
+
+// var days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+// var d = new Date();
+// var dayName = days[d.getDay()];
+
+document.getElementById('demo').innerHTML = dayName;
+return;
+}
+</script>    
+</body>
+</html>
