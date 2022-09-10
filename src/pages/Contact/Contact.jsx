@@ -6,6 +6,7 @@ const Contact = () => {
   // promise
 
   const [employeeName, setEmployeeName] = React.useState("");
+  console.log(employeeName);
 
   const [covidData, setCovidData] = React.useState(null);
   console.log(covidData && covidData[0]);
@@ -19,6 +20,8 @@ const Contact = () => {
    * / before rendering ie data base call and setting timeout register dom event
    *
    */
+
+
   React.useEffect(() => {
     fetch("https://data.covid19india.org/data.json")
       .then((response) => response.json())
@@ -46,10 +49,15 @@ const Contact = () => {
         <label>{employeeName} </label>
         <ul>
           {covidData &&
-            covidData.map((object) => {
+            covidData.slice(0, 9).map((object) => {
               return (
-                <li key={object.statecode}>
-                  {object.statecode} has {object.active} cases{" "}
+                <li>
+                <p key={object.statecode}>
+                  {object.statecode} has {object.active} Active cases{" "}
+                </p>
+                <p key={object.statecode}>
+                  {object.statecode} has {object.confirmed} Confirmed cases{" "}
+                </p>
                 </li>
               );
             })}
