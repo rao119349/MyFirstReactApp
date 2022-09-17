@@ -2,7 +2,7 @@ import React from "react";
 
 const Contact = () => {
   // this.state ={name:''};
-  //this.setState({name: 'vipin1 '})
+  // this.setState({name: 'vipin1 '})
   // promise
 
   const [employeeName, setEmployeeName] = React.useState("");
@@ -20,7 +20,6 @@ const Contact = () => {
    * / before rendering ie data base call and setting timeout register dom event
    *
    */
-
 
   React.useEffect(() => {
     fetch("https://data.covid19india.org/data.json")
@@ -45,19 +44,18 @@ const Contact = () => {
           value={employeeName}
           onChange={handleChange}
         />
-
         <label>{employeeName} </label>
         <ul>
           {covidData &&
             covidData.slice(0, 9).map((object) => {
               return (
                 <li>
-                <p key={object.statecode}>
-                  {object.statecode} has {object.active} Active cases{" "}
-                </p>
-                <p key={object.statecode}>
-                  {object.statecode} has {object.confirmed} Confirmed cases{" "}
-                </p>
+                  <p key={object.statecode}>
+                    {object.statecode} has {object.active} Active cases{" "}
+                  </p>
+                  <p key={object.statecode}>
+                    {object.statecode} has {object.confirmed} Confirmed cases{" "}
+                  </p>
                 </li>
               );
             })}
