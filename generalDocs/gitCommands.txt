@@ -3,7 +3,6 @@ To delete Branch from Git using commands:
 $ git push -d <remote_name> <branchname>
 $ git branch -d <branchname>
 
-
 To rename the current branch:
 
 git branch -m <newname>
