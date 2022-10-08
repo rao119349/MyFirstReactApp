@@ -1,0 +1,6 @@
+2022/09/27-16:51:11.727 2770 Creating DB C:\Users\manageit\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_unifiedportal-mem.epfindia.gov.in_0.indexeddb.leveldb since it was missing.
+2022/09/27-16:51:11.806 2770 Reusing MANIFEST C:\Users\manageit\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_unifiedportal-mem.epfindia.gov.in_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/27-16:51:11.925 5390 Level-0 table #5: started
+2022/09/27-16:51:11.970 5390 Level-0 table #5: 731 bytes OK
+2022/09/27-16:51:11.991 5390 Delete type=0 #3
+2022/09/27-16:51:11.993 13e0 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

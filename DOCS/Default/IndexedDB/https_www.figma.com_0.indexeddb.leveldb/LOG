@@ -1,0 +1,6 @@
+2022/09/22-15:56:39.673 325c Creating DB C:\Users\manageit\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.figma.com_0.indexeddb.leveldb since it was missing.
+2022/09/22-15:56:39.728 325c Reusing MANIFEST C:\Users\manageit\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.figma.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/22-15:56:42.858 15c8 Level-0 table #5: started
+2022/09/22-15:56:42.870 15c8 Level-0 table #5: 2096 bytes OK
+2022/09/22-15:56:42.891 15c8 Delete type=0 #3
+2022/09/22-15:56:42.892 15c8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2022/09/28-15:18:06.699 2ad0 Creating DB C:\Users\manageit\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.indiatoday.in_0.indexeddb.leveldb since it was missing.
+2022/09/28-15:18:06.785 2ad0 Reusing MANIFEST C:\Users\manageit\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.indiatoday.in_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/28-15:18:58.014 3e78 Level-0 table #5: started
+2022/09/28-15:18:58.037 3e78 Level-0 table #5: 1896 bytes OK
+2022/09/28-15:18:58.059 3e78 Delete type=0 #3
+2022/09/28-15:18:58.060 3e78 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

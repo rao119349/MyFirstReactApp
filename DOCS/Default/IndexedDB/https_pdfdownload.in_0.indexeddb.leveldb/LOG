@@ -1,0 +1,6 @@
+2022/10/07-09:57:13.577 900c Creating DB C:\Users\manageit\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_pdfdownload.in_0.indexeddb.leveldb since it was missing.
+2022/10/07-09:57:13.650 900c Reusing MANIFEST C:\Users\manageit\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_pdfdownload.in_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/07-09:57:34.668 8370 Level-0 table #5: started
+2022/10/07-09:57:34.702 8370 Level-0 table #5: 6098 bytes OK
+2022/10/07-09:57:34.734 8370 Delete type=0 #3
+2022/10/07-09:57:34.736 8370 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2022/09/28-17:44:01.755 35b0 Creating DB C:\Users\manageit\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_allabouteve.co.in_0.indexeddb.leveldb since it was missing.
+2022/09/28-17:44:01.821 35b0 Reusing MANIFEST C:\Users\manageit\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_allabouteve.co.in_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/28-17:44:02.735 41a8 Level-0 table #5: started
+2022/09/28-17:44:02.778 41a8 Level-0 table #5: 574 bytes OK
+2022/09/28-17:44:02.800 41a8 Delete type=0 #3
+2022/09/28-17:44:02.801 41a8 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

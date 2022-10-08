@@ -1,0 +1,6 @@
+2022/09/23-15:48:11.613 241c Creating DB C:\Users\manageit\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.jagran.com_0.indexeddb.leveldb since it was missing.
+2022/09/23-15:48:11.684 241c Reusing MANIFEST C:\Users\manageit\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.jagran.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/23-15:48:43.879 2594 Level-0 table #5: started
+2022/09/23-15:48:43.900 2594 Level-0 table #5: 2246 bytes OK
+2022/09/23-15:48:43.921 2594 Delete type=0 #3
+2022/09/23-15:48:43.923 2594 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

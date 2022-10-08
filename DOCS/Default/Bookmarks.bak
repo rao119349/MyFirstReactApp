@@ -1,0 +1,684 @@
+{
+   "checksum": "8461d767d3423235a893ef6b7bb80a08",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13241596807954064",
+            "guid": "07e5f660-0504-4127-a6de-186be7d0c1ad",
+            "id": "7",
+            "name": "Google",
+            "type": "url",
+            "url": "https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwj03ZLJs5LrAhV9yTgGHT1jAfAQPAgH"
+         }, {
+            "children": [ {
+               "date_added": "13279186052547456",
+               "guid": "f220b792-c2b1-4a22-b4ad-ff131fda518c",
+               "id": "148",
+               "name": "Sales Planner :: Candidate :",
+               "type": "url",
+               "url": "https://quicksilvertest.hays.com/qs2/GB/en/sp/s/candidate/11210490/market-candidate-CV"
+            }, {
+               "date_added": "13250618612683409",
+               "guid": "c6c4d1e5-809c-48ea-a175-4f7cc6e94360",
+               "id": "95",
+               "name": "Adapt Programme - PMO - Global Systems Team - Mock ups - All Documents",
+               "type": "url",
+               "url": "https://haysonline.sharepoint.com/sites/PMO/haysit/pmo/adapt/GST%20Trello/Forms/AllItems.aspx?originalPath=aHR0cHM6Ly9oYXlzb25saW5lLnNoYXJlcG9pbnQuY29tLzpmOi9zL1BNTy9oYXlzaXQvcG1vL2FkYXB0L0VncE5md0VTNS1CUG8xdzNqQ2pvUUc4QkNYSV8zY0taTnVVUVJTTG9JNjV3bkE%5FcnRpbWU9WnRJdEJyS1AyRWc&viewid=754cd018%2De0c5%2D40f2%2D9f61%2D6cdbf17e9827&id=%2Fsites%2FPMO%2Fhaysit%2Fpmo%2Fadapt%2FGST%20Trello%2FOT2%2E0%2FMock%20ups"
+            }, {
+               "date_added": "13254409441480250",
+               "guid": "68eb460a-4849-4899-a5a7-bbf13787a753",
+               "id": "99",
+               "name": "Atlassian | Start page",
+               "type": "url",
+               "url": "https://start.atlassian.com/"
+            }, {
+               "date_added": "13253694368987984",
+               "guid": "690e0e71-3326-44e1-9391-1ea35a675bed",
+               "id": "97",
+               "name": "OneTouchCoreAPP",
+               "type": "url",
+               "url": "https://onetouchtest.hays.com/hays/recruiter/GB/en/all/onetouch/s/candidate/browse/candidate-list"
+            }, {
+               "date_added": "13254409602336759",
+               "guid": "74187a69-ea37-4ce1-99f5-46689ba80193",
+               "id": "100",
+               "name": "OT 2.0 Development Board 3 of 4 | Trello",
+               "type": "url",
+               "url": "https://trello.com/b/9ro6t6S1/ot-20-development-board-3-of-4"
+            }, {
+               "date_added": "13241603577728199",
+               "guid": "3771fd57-2d0c-4649-8b3e-9157471b24cb",
+               "id": "11",
+               "name": "Recently Viewed – Figma",
+               "type": "url",
+               "url": "https://www.figma.com/files/recent"
+            }, {
+               "date_added": "13242847052696549",
+               "guid": "fd8c386f-a94a-4491-bd60-fc378f2969be",
+               "id": "34",
+               "name": "HTP - PROTOTYPE - v05 – Figma",
+               "type": "url",
+               "url": "https://www.figma.com/file/7lq2s50hFpUOeoe2D6pbgR/HTP----PROTOTYPE---v05?node-id=0%3A1"
+            }, {
+               "date_added": "13241771945744199",
+               "guid": "2ff74042-6403-434b-8d48-1237313a5218",
+               "id": "22",
+               "name": "Hays Business Solutions",
+               "type": "url",
+               "url": "https://haysonline.sharepoint.com/sites/HaysHub/Country/hbs"
+            }, {
+               "date_added": "13241627594099115",
+               "guid": "4271d3f3-b753-4262-b13f-c8f6a4c9cf8b",
+               "id": "12",
+               "name": "UK jobs and recruitment",
+               "type": "url",
+               "url": "https://www.hays.co.uk/"
+            }, {
+               "date_added": "13241627604494173",
+               "guid": "1d7393b8-b9d4-4a96-9315-23e67db26e87",
+               "id": "14",
+               "name": "Hays Brand Manager :: Guidelines :: Typeface family",
+               "type": "url",
+               "url": "http://brandportal.haysplc.com/group/guidelines/typeface-family"
+            }, {
+               "date_added": "13241627599561609",
+               "guid": "bd294ddd-4f76-4968-87b4-df2559492c7e",
+               "id": "13",
+               "name": "Hays Talent Solutions | Recruitment Stategy & Workforce Management",
+               "type": "url",
+               "url": "https://www.haystalentsolutions.com/"
+            }, {
+               "date_added": "13258137780132405",
+               "guid": "f992f1cf-8509-40c8-83bf-d7b3d6e867a2",
+               "id": "119",
+               "name": "OT 2.0 Backlog 1 of 4 | Trello",
+               "type": "url",
+               "url": "https://trello.com/b/tHgUhRyu/ot-20-backlog-1-of-4"
+            } ],
+            "date_added": "13249150614774841",
+            "date_modified": "13301983640230985",
+            "guid": "0192fc72-f036-40f6-91ab-156315098b6b",
+            "id": "88",
+            "name": "Hays",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13241603043903273",
+               "guid": "c8da5a36-700f-4544-a1ce-2afb7fd0fb99",
+               "id": "10",
+               "name": "Zeplin—Collaboration and handoff for product teams",
+               "type": "url",
+               "url": "https://zeplin.io/"
+            }, {
+               "date_added": "13243939553721118",
+               "guid": "fb626c80-7c71-4f7d-b73f-328701ba1862",
+               "id": "41",
+               "name": "Home | Owl Carousel | 2.3.4",
+               "type": "url",
+               "url": "https://owlcarousel2.github.io/OwlCarousel2/"
+            }, {
+               "date_added": "13242241369052134",
+               "guid": "c7a06e4c-d024-43df-a8c7-e5ad667a4782",
+               "id": "27",
+               "name": "Crm designs, themes, templates and downloadable graphic elements on Dribbble",
+               "type": "url",
+               "url": "https://dribbble.com/tags/crm"
+            }, {
+               "date_added": "13248889020632533",
+               "guid": "f7b2497c-7c0d-4fcd-9f66-310f47b790f6",
+               "id": "85",
+               "name": "StackBlitz",
+               "type": "url",
+               "url": "https://stackblitz.com/run?file=index.html"
+            }, {
+               "date_added": "13249150596371650",
+               "guid": "05f5bd3c-58c7-4fa9-b43e-448b40eee0e1",
+               "id": "87",
+               "name": "Browse Jobs by Company, Location, Skills, Designation & Industry - Naukri.com",
+               "type": "url",
+               "url": "https://www.naukri.com/browse-jobs"
+            }, {
+               "date_added": "13248884795927584",
+               "guid": "da20a4b3-8279-4936-a1bc-dae5b7a29335",
+               "id": "83",
+               "name": "Cuba - Premium Admin Template",
+               "type": "url",
+               "url": "http://admin.pixelstrap.com/cuba/theme/support-ticket.html"
+            }, {
+               "date_added": "13242241393822995",
+               "guid": "7cb5b8bd-34ec-433b-894d-67f0b58aebe8",
+               "id": "28",
+               "name": "Osahanin - Job Portal & Social Network HTML Template",
+               "type": "url",
+               "url": "https://askbootstrap.com/preview/osahanin/light/profile.html"
+            }, {
+               "date_added": "13241888404192767",
+               "guid": "3ffea6d4-bbfb-4e76-8710-92a9a1ca35c0",
+               "id": "24",
+               "name": "OneUI - Bootstrap 4 Admin Template & UI Framework | DEMO",
+               "type": "url",
+               "url": "https://demo.pixelcave.com/oneui-remastered/be_pages_dashboard.html"
+            }, {
+               "date_added": "13243945708297614",
+               "guid": "c784cbd0-5762-41a7-ba27-f6da93c64fd1",
+               "id": "43",
+               "name": "listing design - Google Search",
+               "type": "url",
+               "url": "https://www.google.com/search?q=listing+design&hl=en&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi_s7O34MXrAhXPwTgGHfKRDZ8Q_AUoAXoECA4QAw&biw=1366&bih=625#imgrc=b2ZAyrjciygdWM"
+            }, {
+               "date_added": "13243945784239979",
+               "guid": "ec65914a-1874-4b2b-8ed1-c0a9bf118641",
+               "id": "44",
+               "name": "Dribbble - lead-profile-8.png by Balkan Brothers",
+               "type": "url",
+               "url": "https://dribbble.com/shots/2850451-CRM-Dashboard/attachments/586767"
+            }, {
+               "date_added": "13243945792727950",
+               "guid": "25d00f35-1d52-4b68-8193-e97a6fc9d239",
+               "id": "45",
+               "name": "Schedule Web App by Michal Parulski on Dribbble",
+               "type": "url",
+               "url": "https://dribbble.com/shots/5797513-Schedule-Web-App"
+            }, {
+               "date_added": "13243945853182632",
+               "guid": "25a3d9dd-fd0f-4e7e-8bb3-ea66416958ed",
+               "id": "47",
+               "name": "Crm Website Templates from ThemeForest",
+               "type": "url",
+               "url": "https://themeforest.net/search/crm"
+            }, {
+               "date_added": "13243945870493977",
+               "guid": "989dd4bd-93a7-4f29-8879-c8b7818ced6f",
+               "id": "48",
+               "name": "Metronic - The Most Popular Bootstrap 4 HTML, Angular 9, VueJS, React & Laravel Admin Dashboard Theme | Keenthemes",
+               "type": "url",
+               "url": "https://keenthemes.com/metronic/"
+            }, {
+               "date_added": "13243945877728634",
+               "guid": "ab9c031b-b40b-46c8-bdea-02ffeaf0c911",
+               "id": "49",
+               "name": "Metronic Live preview | Keenthemes",
+               "type": "url",
+               "url": "https://preview.keenthemes.com/metronic/demo1/index.html"
+            }, {
+               "date_added": "13243945890769353",
+               "guid": "ee0716bd-da7a-4e1f-947c-34b8f815782f",
+               "id": "50",
+               "name": "Metronic Live preview | Keenthemes",
+               "type": "url",
+               "url": "https://preview.keenthemes.com/metronic/demo2/index.html"
+            }, {
+               "date_added": "13243945907984306",
+               "guid": "5d0f2fd7-4ff4-4617-8af9-55e084e01aed",
+               "id": "51",
+               "name": "Cuba - Premium Admin Template",
+               "type": "url",
+               "url": "http://admin.pixelstrap.com/cuba/theme/landing-page.html"
+            }, {
+               "date_added": "13243945947772902",
+               "guid": "5f91a7e2-ceff-42bc-83d9-522c496cff7f",
+               "id": "52",
+               "name": "Dashboard v1 | Gull - Vuejs Admin Dashboard Template",
+               "type": "url",
+               "url": "http://gull-vue.ui-lib.com/app/dashboards/dashboard.v1#"
+            }, {
+               "date_added": "13243945969336330",
+               "guid": "c6b36203-bc2f-4e42-8763-5e69a1fe5c4f",
+               "id": "53",
+               "name": "Tasks - CRMS admin template",
+               "type": "url",
+               "url": "https://crms-html.dreamguystech.com/template/tasks.html"
+            }, {
+               "date_added": "13243945984377048",
+               "guid": "bd315881-9c8f-43cb-be0e-590e668c6a6f",
+               "id": "54",
+               "name": "CRM Admin - Bootstrap CRM Admin Template Dashboard Preview - ThemeForest",
+               "type": "url",
+               "url": "http://preview.themeforest.net/item/crm-admin-bootstrap-crm-admin-template-dashboard/full_screen_preview/19968099?_ga=2.131012559.1350686176.1598971619-515643382.1597227770"
+            }, {
+               "date_added": "13243945991960599",
+               "guid": "2ae3235a-8b75-4412-a01c-d6c65bab197a",
+               "id": "55",
+               "name": "UCM",
+               "type": "url",
+               "url": "http://ultimateclientmanager.com/demo_pro/?demo_theme=theme_adminlte"
+            }, {
+               "date_added": "13243946056109984",
+               "guid": "36678088-c3ae-4dff-93fb-1cd66463093e",
+               "id": "56",
+               "name": "Dashboard – Segments",
+               "type": "url",
+               "url": "http://segments-demo.wearecodevision.com/dashboard/"
+            }, {
+               "date_added": "13243946060934991",
+               "guid": "848ffe31-d5e5-4327-b556-fe3527b9e085",
+               "id": "57",
+               "name": "Figma Templates from ThemeForest",
+               "type": "url",
+               "url": "https://themeforest.net/category/ui-templates/figma"
+            }, {
+               "date_added": "13244312618459007",
+               "guid": "ddfb027f-fb50-484a-becc-87bfd212fd52",
+               "id": "63",
+               "name": "Pin on Nice UI",
+               "type": "url",
+               "url": "https://www.pinterest.com/pin/570901690247925576/?d=t&mt=login"
+            }, {
+               "date_added": "13283508684715840",
+               "guid": "0812c38e-a71a-464c-83c6-140e0380bc7e",
+               "id": "153",
+               "name": "20 Creative Table UI Design Examples You Should Know in 2021",
+               "type": "url",
+               "url": "https://www.mockplus.com/blog/post/table-ui-design-examples"
+            }, {
+               "date_added": "13302861569278921",
+               "guid": "040780b1-758a-4a04-8281-bc0221bcb608",
+               "id": "199",
+               "name": "Free Lottie Animation Files, Tools & Plugins - LottieFiles",
+               "type": "url",
+               "url": "https://lottiefiles.com/public/animations"
+            } ],
+            "date_added": "13243945633245225",
+            "date_modified": "13302861574427787",
+            "guid": "46164ea8-fc38-4755-87db-12f52ffa44cf",
+            "id": "42",
+            "name": "Design",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13290870986710892",
+               "guid": "2e08e1b4-5507-4690-a9aa-c717bd56bff5",
+               "id": "173",
+               "name": "Adapt Programme - PMO - Global Systems Team - Icons - bespoke designs - All Documents",
+               "type": "url",
+               "url": "https://haysonline.sharepoint.com/sites/PMO/haysit/pmo/adapt/GST%20Trello/Forms/AllItems.aspx?id=%2Fsites%2FPMO%2Fhaysit%2Fpmo%2Fadapt%2FGST%20Trello%2FOT2%2E0%2FProduct%20team%20documents%2FIcons%20%2D%20bespoke%20designs&viewid=754cd018%2De0c5%2D40f2%2D9f61%2D6cdbf17e9827"
+            }, {
+               "date_added": "13241693006004486",
+               "guid": "34bfe320-3a18-4f8e-b341-f7953dd67b8f",
+               "id": "19",
+               "name": "Fontello - icon fonts generator",
+               "type": "url",
+               "url": "http://fontello.com/"
+            }, {
+               "date_added": "13241693009639889",
+               "guid": "f7ec674b-6c61-4996-bf67-518c25961d2d",
+               "id": "20",
+               "name": "Free vector icons - SVG, PSD, PNG, EPS & Icon Font - Thousands of free icons",
+               "type": "url",
+               "url": "https://www.flaticon.com/"
+            }, {
+               "date_added": "13242847059528950",
+               "guid": "e963d5a7-6d90-4986-9ba1-f93a9d590a41",
+               "id": "35",
+               "name": "Icons - Material Design",
+               "type": "url",
+               "url": "https://material.io/resources/icons/?icon=3d_rotation&style=baseline"
+            }, {
+               "date_added": "13255539241858899",
+               "guid": "0f788f5d-de16-4350-9759-3d413891ccee",
+               "id": "103",
+               "name": "Getting Started | Font Awesome",
+               "type": "url",
+               "url": "https://fontawesome.com/how-to-use/on-the-desktop/setup/getting-started"
+            }, {
+               "date_added": "13242847063621786",
+               "guid": "2f3ab654-3323-425d-ab15-91a4b6fbac4c",
+               "id": "36",
+               "name": "Material Icons Guide - Google Design",
+               "type": "url",
+               "url": "https://google.github.io/material-design-icons/"
+            }, {
+               "date_added": "13258027864884938",
+               "guid": "7d2f2970-216c-444c-9d60-8f95987fa797",
+               "id": "114",
+               "name": "CSS Pseudo-Elements | Font Awesome",
+               "type": "url",
+               "url": "https://fontawesome.com/how-to-use/on-the-web/advanced/css-pseudo-elements"
+            }, {
+               "date_added": "13265726232520224",
+               "guid": "8c3e329c-1764-46d0-9e5e-694172d4e91d",
+               "id": "137",
+               "name": "Uploading Icons | Font Awesome",
+               "type": "url",
+               "url": "https://fontawesome.com/how-to-use/on-the-web/using-kits/uploading-icons"
+            } ],
+            "date_added": "13250599094936934",
+            "date_modified": "13290936393574250",
+            "guid": "e393be20-b229-4759-9346-58a39bd50f9b",
+            "id": "94",
+            "name": "Icons",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13242800211297597",
+               "guid": "00178213-ee27-4559-ac2d-ac85a731b965",
+               "id": "33",
+               "name": "https://hbsin.greythr.com/home.do",
+               "type": "url",
+               "url": "https://hbsin.greythr.com/home.do"
+            }, {
+               "date_added": "13257502724855690",
+               "guid": "80596905-502c-43dd-8881-e76c037cf982",
+               "id": "111",
+               "name": "Vipul MedCorp Insurance TPA - Employee SelfCare",
+               "type": "url",
+               "url": "https://vipulmedcorp.com/Selfcare/login.aspx"
+            }, {
+               "date_added": "13272128192538885",
+               "guid": "753f3bf9-3b63-405a-a23e-89734a54b75f",
+               "id": "141",
+               "name": "TSRDLESS",
+               "type": "url",
+               "url": "https://ess.tsrdarashaw.com/payroll/ess/login"
+            }, {
+               "date_added": "13287589445897161",
+               "guid": "818701dc-f692-4f0f-8508-f2b32704c269",
+               "id": "157",
+               "name": "Explore",
+               "type": "url",
+               "url": "https://hbs-learningzone.mygo1.com/r/app/explore"
+            }, {
+               "date_added": "13290242136861928",
+               "guid": "7ecc3dfb-b59b-41e9-bb6d-3090f36cbbe2",
+               "id": "161",
+               "name": "PayPal: Summary",
+               "type": "url",
+               "url": "https://www.paypal.com/myaccount/summary"
+            }, {
+               "date_added": "13284117879757128",
+               "guid": "663faf31-2f4e-4366-aa4a-a44027c6f2e1",
+               "id": "155",
+               "name": "IPO GMP Today, Live Grey Market Premium for open and upcoming IPOs",
+               "type": "url",
+               "url": "https://www.topsharebrokers.com/report/live-ipo-gmp/331/?ref=chr"
+            } ],
+            "date_added": "13256235668239419",
+            "date_modified": "13304686976446722",
+            "guid": "7e065fc6-2574-4bce-a8ed-b09f9b8fb34d",
+            "id": "109",
+            "name": "Payroll",
+            "type": "folder"
+         }, {
+            "date_added": "13267531221675497",
+            "guid": "7f6bb667-09b8-46c2-9129-bff10fc00130",
+            "id": "139",
+            "name": "Summary - Overview",
+            "type": "url",
+            "url": "https://dev.azure.com/HaysSpecialistRecruitment/OT2.0"
+         }, {
+            "children": [ {
+               "date_added": "13258216091335376",
+               "guid": "c3acc4a0-5246-49a8-b5e6-1d1d1e282632",
+               "id": "121",
+               "name": "A Complete Guide to Flexbox | CSS-Tricks",
+               "type": "url",
+               "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+            }, {
+               "date_added": "13265448674779866",
+               "guid": "ba73afe0-d889-403b-a146-2011d73a5e86",
+               "id": "133",
+               "name": "CSS Hacks Targeting Firefox | CSS-Tricks",
+               "type": "url",
+               "url": "https://css-tricks.com/snippets/css/css-hacks-targeting-firefox/"
+            }, {
+               "date_added": "13264961471838003",
+               "guid": "f69b6f3b-0711-4042-9df4-f3a5b821bd1b",
+               "id": "127",
+               "name": "Flex · Bootstrap",
+               "type": "url",
+               "url": "https://getbootstrap.com/docs/4.4/utilities/flex/"
+            }, {
+               "date_added": "13265448690834721",
+               "guid": "667203b7-b197-46ef-88c7-78532f0dc1a9",
+               "id": "134",
+               "name": "scrollbar | CSS-Tricks",
+               "type": "url",
+               "url": "https://css-tricks.com/almanac/properties/s/scrollbar/"
+            }, {
+               "date_added": "13300205264642748",
+               "guid": "ae20b010-7772-4460-93ef-d08f3698fe2b",
+               "id": "186",
+               "name": "ITR1 Deductions GTI deductions",
+               "type": "url",
+               "url": "https://eportal.incometax.gov.in/iec/foservices/#/foreturns-ay22/fy_itr1_2022/schedule_wizard_itr1_2022/GTI_deductions"
+            }, {
+               "date_added": "13301139885102744",
+               "guid": "d197c529-103e-4b1b-877d-e1ace7293d28",
+               "id": "188",
+               "name": "Motu - Creative Portfolio HTML Template",
+               "type": "url",
+               "url": "https://nhptheme.com/motu/motu/index.html"
+            }, {
+               "date_added": "13301478695434397",
+               "guid": "9eec4d02-5fcf-42af-8d21-25a5c801d2b2",
+               "id": "190",
+               "name": "Introduction to React | ReactJS Tutorial for Beginners in Hindi 2020 #1 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=tiLWCNFzThE&list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ"
+            }, {
+               "date_added": "13301983355174360",
+               "guid": "7fb1cbd5-6c87-49fa-800f-33bc57909394",
+               "id": "192",
+               "name": "What's New in Figma",
+               "type": "url",
+               "url": "https://www.figma.com/whats-new/"
+            }, {
+               "date_added": "13301983401081226",
+               "guid": "bd619190-6c81-4814-97a6-6f1a1b890b94",
+               "id": "193",
+               "name": "Cards · Bootstrap v5.2",
+               "type": "url",
+               "url": "https://getbootstrap.com/docs/5.2/components/card/#content"
+            }, {
+               "date_added": "13301983435306018",
+               "guid": "1f615d71-8202-40bb-afba-6d6b5f20ee42",
+               "id": "194",
+               "name": "User Experience Stack Exchange",
+               "type": "url",
+               "url": "https://ux.stackexchange.com/"
+            }, {
+               "date_added": "13301983460497601",
+               "guid": "99ca7d48-81c0-479f-95dd-831837c7b553",
+               "id": "195",
+               "name": "What's a Story",
+               "type": "url",
+               "url": "https://storybook.js.org/docs/angular/get-started/whats-a-story"
+            }, {
+               "date_added": "13281730250721638",
+               "guid": "a9b10b20-bb77-4b41-8e02-26a347995d90",
+               "id": "150",
+               "name": "OwlCool",
+               "type": "url",
+               "url": "https://daniel-projects.firebaseapp.com/owlng/checkbox"
+            }, {
+               "date_added": "13243945843531236",
+               "guid": "bd88466f-7735-4af2-92ff-682d18929584",
+               "id": "46",
+               "name": "Facet · Bootstrap",
+               "type": "url",
+               "url": "https://styleguide.joblocal.de/docs/4.1/components/facet/"
+            }, {
+               "date_added": "13306001427923143",
+               "guid": "6e270fb1-c9dd-4357-b1f5-dad48ec7aef3",
+               "id": "216",
+               "name": "CSS Layout - The position Property",
+               "type": "url",
+               "url": "https://www.w3schools.com/css/css_positioning.asp"
+            }, {
+               "date_added": "13306001434627463",
+               "guid": "922efbe0-6886-4656-ba11-37d6c7572d6c",
+               "id": "217",
+               "name": "Tryit Editor v3.7",
+               "type": "url",
+               "url": "https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_flex-basis"
+            }, {
+               "date_added": "13306001437738977",
+               "guid": "fd294cbd-fa6f-481d-a3bb-fbb1ab4748e9",
+               "id": "218",
+               "name": "Tryit Editor v3.7",
+               "type": "url",
+               "url": "https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_flex"
+            }, {
+               "date_added": "13306001440292352",
+               "guid": "05493083-7a47-4d54-a77b-6dbf95dcbf29",
+               "id": "219",
+               "name": "flex | CSS-Tricks - CSS-Tricks",
+               "type": "url",
+               "url": "https://css-tricks.com/almanac/properties/f/flex/"
+            } ],
+            "date_added": "13265448660231851",
+            "date_modified": "13306405247444996",
+            "guid": "63835082-2880-45ac-ab9c-55cae7e37738",
+            "id": "132",
+            "name": "css tricks",
+            "type": "folder"
+         }, {
+            "date_added": "13255687632410402",
+            "guid": "316137cb-a308-4e3c-823a-2a39e72056d0",
+            "id": "106",
+            "name": "WAVE Web Accessibility Evaluation Tool",
+            "type": "url",
+            "url": "https://wave.webaim.org/"
+         }, {
+            "children": [ {
+               "date_added": "13304687025039387",
+               "guid": "d084411e-a04b-434b-bea8-7ecbc2d994a0",
+               "id": "208",
+               "name": "Shorthands React",
+               "type": "url",
+               "url": "https://github.com/dsznajder/vscode-react-javascript-snippets/blob/HEAD/docs/Snippets.md"
+            }, {
+               "date_added": "13304534278378585",
+               "guid": "e0bf585f-b822-4a92-a09d-62454b4dabc0",
+               "id": "206",
+               "name": "React JS Tut",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=MfhZJcTOy1A"
+            }, {
+               "date_added": "13299876557611330",
+               "guid": "9fa13e7f-6fac-4a9e-8ed4-cd2fe9d08375",
+               "id": "184",
+               "name": "https://data.covid19india.org/data.json",
+               "type": "url",
+               "url": "https://data.covid19india.org/data.json"
+            }, {
+               "date_added": "13308455192714399",
+               "guid": "3dcc3df7-10e1-41b0-be54-41b822159041",
+               "id": "232",
+               "name": "rao119349/MyFirstReactApp",
+               "type": "url",
+               "url": "https://github.com/rao119349/MyFirstReactApp"
+            }, {
+               "date_added": "13305800384461665",
+               "guid": "ee517f0d-f195-478d-8907-9ea88435e797",
+               "id": "214",
+               "name": "Configure Storybook",
+               "type": "url",
+               "url": "https://storybook.js.org/docs/react/configure/overview#configure-story-loading"
+            }, {
+               "date_added": "13306405247444996",
+               "guid": "fde408b9-02a4-4928-b314-aa9ae99d97c2",
+               "id": "221",
+               "name": "Tutorial: Intro to React – React",
+               "type": "url",
+               "url": "https://reactjs.org/tutorial/tutorial.html"
+            }, {
+               "date_added": "13307456199308002",
+               "guid": "73387cc3-2c67-462f-9f3b-ac2438a787bd",
+               "id": "227",
+               "name": "How to Consume REST APIs in React – a Beginner's Guide",
+               "type": "url",
+               "url": "https://www.freecodecamp.org/news/how-to-consume-rest-apis-in-react/"
+            }, {
+               "date_added": "13308069265557624",
+               "guid": "a0247485-9027-49ca-bf69-97b4284d7151",
+               "id": "229",
+               "name": "React (forked) - StackBlitz",
+               "type": "url",
+               "url": "https://stackblitz.com/edit/reactapp1saurav?file=README.md,src%2FApp.js"
+            }, {
+               "date_added": "13308441422216465",
+               "guid": "59f0bc50-07ac-490a-b9d9-2b9d56deebbe",
+               "id": "231",
+               "name": "Saurav Yadav on Behance",
+               "type": "url",
+               "url": "https://www.behance.net/rao1193"
+            } ],
+            "date_added": "13302011138092122",
+            "date_modified": "13308455198972736",
+            "guid": "8cabe3af-d765-4809-84d5-63e1cd95637e",
+            "id": "197",
+            "name": "React",
+            "type": "folder"
+         }, {
+            "date_added": "13303386218962918",
+            "guid": "b529bbd7-89cb-4806-8d5e-bd44daac372a",
+            "id": "201",
+            "name": "Setting up Visual Studio Code",
+            "type": "url",
+            "url": "https://code.visualstudio.com/docs/setup/setup-overview"
+         }, {
+            "date_added": "13306838050191515",
+            "guid": "53d676ad-58f9-4195-b028-cd9664efbb1d",
+            "id": "225",
+            "name": "Login",
+            "type": "url",
+            "url": "https://ulbhryndc.org/"
+         }, {
+            "date_added": "13304496727817028",
+            "guid": "0524644d-f9b2-41d0-a799-2ea0ecb92bcb",
+            "id": "205",
+            "name": "Mockitt",
+            "type": "url",
+            "url": "https://mockittapp.wondershare.com/team/panel/te2lkldefault"
+         }, {
+            "children": [ {
+               "date_added": "13245861034880396",
+               "guid": "8195d80b-3b9b-4240-b224-5c7695f50995",
+               "id": "70",
+               "name": "Verbal Math By Abhas Saini - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/c/VerbalMathByAbhasSaini/playlists"
+            }, {
+               "date_added": "13308806813314877",
+               "guid": "22566902-ae48-4895-8763-d75caab3732b",
+               "id": "235",
+               "name": "RBE Revolution By Education - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/c/RBERevolutionByEducation/videos"
+            } ],
+            "date_added": "13308806758610809",
+            "date_modified": "13308806813314877",
+            "guid": "43e41176-efc3-4b85-a9ba-70b47c79c863",
+            "id": "234",
+            "name": "SSC",
+            "type": "folder"
+         } ],
+         "date_added": "13241525312120400",
+         "date_modified": "13308806758611253",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13241525312120406",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13241525312120407",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

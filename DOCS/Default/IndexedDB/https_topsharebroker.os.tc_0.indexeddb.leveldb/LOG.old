@@ -1,0 +1,7 @@
+2022/10/06-13:45:12.821 5478 Reusing MANIFEST C:\Users\manageit\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_topsharebroker.os.tc_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/06-13:45:12.823 5478 Recovering log #3
+2022/10/06-13:45:12.839 5478 Reusing old log C:\Users\manageit\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_topsharebroker.os.tc_0.indexeddb.leveldb/000003.log 
+2022/10/06-13:45:53.125 5fa0 Level-0 table #5: started
+2022/10/06-13:45:53.159 5fa0 Level-0 table #5: 19842 bytes OK
+2022/10/06-13:45:53.180 5fa0 Delete type=0 #3
+2022/10/06-13:45:53.181 5fa0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

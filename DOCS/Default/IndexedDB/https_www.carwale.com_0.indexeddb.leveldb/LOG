@@ -1,0 +1,7 @@
+2022/10/07-12:17:03.735 7448 Reusing MANIFEST C:\Users\manageit\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.carwale.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/07-12:17:03.736 7448 Recovering log #3
+2022/10/07-12:17:03.764 7448 Reusing old log C:\Users\manageit\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.carwale.com_0.indexeddb.leveldb/000003.log 
+2022/10/07-12:18:37.112 8a00 Level-0 table #5: started
+2022/10/07-12:18:37.135 8a00 Level-0 table #5: 6685 bytes OK
+2022/10/07-12:18:37.155 8a00 Delete type=0 #3
+2022/10/07-12:18:37.157 8a00 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

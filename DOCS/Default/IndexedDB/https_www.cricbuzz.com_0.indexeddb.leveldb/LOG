@@ -1,0 +1,25 @@
+2022/10/02-22:47:01.835 34b8 Reusing MANIFEST C:\Users\manageit\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.cricbuzz.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/02-22:47:01.836 34b8 Recovering log #31
+2022/10/02-22:47:01.836 34b8 Reusing old log C:\Users\manageit\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.cricbuzz.com_0.indexeddb.leveldb/000031.log 
+2022/10/02-22:47:01.836 34b8 Delete type=2 #30
+2022/10/02-22:47:01.949 228 Level-0 table #36: started
+2022/10/02-22:47:01.972 228 Level-0 table #36: 1774 bytes OK
+2022/10/02-22:47:01.983 228 Delete type=0 #31
+2022/10/02-22:47:01.984 228 Manual compaction at level-0 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0c\x00\x00\x05' @ 1319 : 1
+2022/10/02-22:47:01.985 228 Compacting 1@0 + 1@1 files
+2022/10/02-22:47:02.006 228 Generated table #37@0: 334 keys, 4289 bytes
+2022/10/02-22:47:02.006 228 Compacted 1@0 + 1@1 files => 4289 bytes
+2022/10/02-22:47:02.016 228 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/10/02-22:47:02.017 228 Delete type=2 #36
+2022/10/02-22:47:02.018 228 Manual compaction at level-0 from '\x00\x0c\x00\x00\x05' @ 1319 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/02-22:47:03.594 2afc Level-0 table #39: started
+2022/10/02-22:47:03.614 2afc Level-0 table #39: 1811 bytes OK
+2022/10/02-22:47:03.624 2afc Delete type=2 #33
+2022/10/02-22:47:03.624 2afc Delete type=0 #35
+2022/10/02-22:47:03.628 2afc Manual compaction at level-0 from '\x00\x0d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0d\x00\x00\x05' @ 1362 : 1
+2022/10/02-22:47:03.628 2afc Compacting 1@0 + 1@1 files
+2022/10/02-22:47:03.649 2afc Generated table #40@0: 334 keys, 4288 bytes
+2022/10/02-22:47:03.649 2afc Compacted 1@0 + 1@1 files => 4288 bytes
+2022/10/02-22:47:03.656 2afc compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/10/02-22:47:03.659 2afc Delete type=2 #39
+2022/10/02-22:47:03.660 2afc Manual compaction at level-0 from '\x00\x0d\x00\x00\x05' @ 1362 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at (end)

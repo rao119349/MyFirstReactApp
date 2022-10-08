@@ -1,0 +1,7 @@
+2022/10/06-20:56:14.463 9414 Reusing MANIFEST C:\Users\manageit\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_gomechanic.in_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/06-20:56:14.466 9414 Recovering log #3
+2022/10/06-20:56:14.475 9414 Reusing old log C:\Users\manageit\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_gomechanic.in_0.indexeddb.leveldb/000003.log 
+2022/10/06-20:56:54.969 72f8 Level-0 table #5: started
+2022/10/06-20:56:55.005 72f8 Level-0 table #5: 8788 bytes OK
+2022/10/06-20:56:55.034 72f8 Delete type=0 #3
+2022/10/06-20:56:55.036 72f8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

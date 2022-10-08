@@ -1,0 +1,6 @@
+2022/09/23-12:54:33.072 1ccc Creating DB C:\Users\manageit\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_developer.mozilla.org_0.indexeddb.leveldb since it was missing.
+2022/09/23-12:54:33.162 1ccc Reusing MANIFEST C:\Users\manageit\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_developer.mozilla.org_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/23-12:54:38.681 2e4c Level-0 table #5: started
+2022/09/23-12:54:38.693 2e4c Level-0 table #5: 5784 bytes OK
+2022/09/23-12:54:38.714 2e4c Delete type=0 #3
+2022/09/23-12:54:38.715 2e4c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2022/09/26-18:12:53.649 52cc Creating DB C:\Users\manageit\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.hindustantimes.com_0.indexeddb.leveldb since it was missing.
+2022/09/26-18:12:53.913 52cc Reusing MANIFEST C:\Users\manageit\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.hindustantimes.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/26-18:13:40.656 53f0 Level-0 table #5: started
+2022/09/26-18:13:40.712 53f0 Level-0 table #5: 9673 bytes OK
+2022/09/26-18:13:40.734 53f0 Delete type=0 #3
+2022/09/26-18:13:40.735 53f0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
