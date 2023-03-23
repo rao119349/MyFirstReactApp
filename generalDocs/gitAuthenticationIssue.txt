@@ -13,3 +13,6 @@ Windows > Settings > credential manager > windows credential > delete saved git 
 8) Run again then it will work......
 
 Hurray You are done !!!
+
+
+Remove right spacing from textarea >> Put display:flex on parent container.
